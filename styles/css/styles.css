@@ -1,0 +1,14 @@
+body {
+    background-image: url("http://i.imgur.com/yi9DRtN.gif")
+}
+
+#bio {
+    margin-right: 10px;
+    font-size: 9px;
+    color: purple;
+}
+#logo {
+    color: purple;
+    text-align: center;
+    
+}
