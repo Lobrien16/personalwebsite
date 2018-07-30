@@ -10,5 +10,30 @@ body {
 #logo {
     color: purple;
     text-align: center;
-    
 }
+ 
+.social {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .linkedin {
+      background: #125688;
+    color: white;
+    width: 50px;
+    height: auto;
+  }
+
+  #instagram_pic {
+      width: 50px;
+      height: auto;
+  }
