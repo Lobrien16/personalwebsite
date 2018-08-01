@@ -1,0 +1,2 @@
+Change background for text to black.
+Font size bigger
